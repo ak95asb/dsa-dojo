@@ -137,3 +137,12 @@ profile.cov
 
 # Generated files
 *.gen.go
+
+# Local development tools
+.agentvibes/
+.bmad/
+.claude/
+.opencode/
+.rovodev/
+.mcp.json
+LAUNCH_CHECKLIST.md
